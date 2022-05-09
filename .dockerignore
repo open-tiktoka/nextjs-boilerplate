@@ -1,0 +1,16 @@
+##
+## Docker Ignore List
+##
+
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+yarn-error.log
+README.md
+.next
+.git
+
+##
+## END
+##
